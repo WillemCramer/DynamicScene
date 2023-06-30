@@ -10,4 +10,4 @@ Basic idea is to set a basic scene in which things can happen.
 - needs to be arti-farty
 - needs to be eye-candy
 
-  many can join but I'll be the art director (have final say)
+  
